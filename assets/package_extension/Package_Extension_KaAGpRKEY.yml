@@ -1,0 +1,23 @@
+# Please modify the following content to add a software customization for an environment.
+# To remove an existing software customization please remove the entire content and click apply.
+
+# Please add conda channels here indented by two spaces and a hyphen.
+channels:
+  - defaults
+
+# Please add conda packages here intented by two spaces and a hyphen.
+# Example:
+# dependencies:
+#  - a_conda_package=1.0
+#
+# To add conda packages, please un-comment the next line below.
+dependencies:
+
+# Please add pip packages here.
+# List your pip packages indented by four spaces and a hyphen.
+# Example:
+#  -pip:
+#    - a_pip_package==1.0
+#
+# To add pip packages, please un-comment the next line below.
+#  - pip:
